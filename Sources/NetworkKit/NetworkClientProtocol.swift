@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  NetworkClientProtocol.swift
 //  NetworkKit
 //
 //  Created by Mariam Joglidze on 29.01.26.
